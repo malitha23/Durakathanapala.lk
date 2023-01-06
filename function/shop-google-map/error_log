@@ -1,0 +1,10 @@
+[04-Aug-2022 10:42:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/shop-google-map/map.php:273
+Stack trace:
+#0 /home/durakathanapala/public_html/function/shop-google-map/map.php(238): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/shop-google-map/map.php on line 273
+[04-Aug-2022 10:43:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/durakathanapala/public_html/function/shop-google-map/map.php:275
+Stack trace:
+#0 /home/durakathanapala/public_html/function/shop-google-map/map.php(238): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/shop-google-map/map.php on line 275

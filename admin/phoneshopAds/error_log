@@ -1,0 +1,5 @@
+[11-Aug-2022 06:56:01 UTC] PHP Notice:  Undefined variable: m in /home/durakathanapala/public_html/admin/phoneshopAds/viewallPhoneshopAd.php on line 549
+[11-Aug-2022 06:56:01 UTC] PHP Notice:  Undefined variable: fullname in /home/durakathanapala/public_html/admin/phoneshopAds/viewallPhoneshopAd.php on line 549
+[11-Aug-2022 06:56:10 UTC] PHP Notice:  Undefined variable: m in /home/durakathanapala/public_html/admin/phoneshopAds/viewallPhoneshopAd.php on line 549
+[11-Aug-2022 06:56:10 UTC] PHP Notice:  Undefined variable: fullname in /home/durakathanapala/public_html/admin/phoneshopAds/viewallPhoneshopAd.php on line 549
+[11-Aug-2022 07:08:25 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneshopAds/viewallPhoneshopAd-a.php on line 60

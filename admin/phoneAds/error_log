@@ -1,0 +1,29 @@
+[02-Aug-2022 09:14:11 UTC] PHP Notice:  Undefined variable: m in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 538
+[02-Aug-2022 09:14:11 UTC] PHP Notice:  Undefined variable: fullname in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 538
+[02-Aug-2022 09:14:11 UTC] PHP Notice:  Undefined variable: pno1 in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 541
+[02-Aug-2022 09:14:11 UTC] PHP Notice:  Undefined variable: pno2 in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 543
+[02-Aug-2022 09:14:11 UTC] PHP Notice:  Undefined variable: pno2 in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 546
+[02-Aug-2022 09:14:43 UTC] PHP Notice:  Undefined variable: m in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 538
+[02-Aug-2022 09:14:43 UTC] PHP Notice:  Undefined variable: fullname in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 538
+[02-Aug-2022 09:14:43 UTC] PHP Notice:  Undefined variable: pno1 in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 541
+[02-Aug-2022 09:14:43 UTC] PHP Notice:  Undefined variable: pno2 in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 543
+[02-Aug-2022 09:14:43 UTC] PHP Notice:  Undefined variable: pno2 in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 546
+[02-Aug-2022 15:54:01 UTC] PHP Warning:  rmdir(../../adsPictures/105237898949294235015/1659449392): Directory not empty in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd-a.php on line 94
+[02-Aug-2022 15:54:01 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd-a.php on line 99
+[02-Aug-2022 15:54:01 UTC] PHP Warning:  rmdir(../../adsPictures/105237898949294235015/1659449392): Directory not empty in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd-a.php on line 94
+[02-Aug-2022 15:54:01 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd-a.php on line 99
+[02-Aug-2022 15:54:01 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd-a.php on line 99
+[11-Aug-2022 06:51:38 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd-a.php on line 99
+[11-Aug-2022 06:51:55 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneallAd-a.php on line 97
+[11-Aug-2022 06:52:05 UTC] PHP Warning:  rmdir(../../adsPictures/113973874474925952373/1659466619): Directory not empty in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneallAd-a.php on line 92
+[11-Aug-2022 06:52:05 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneallAd-a.php on line 97
+[11-Aug-2022 06:52:05 UTC] PHP Warning:  rmdir(../../adsPictures/113973874474925952373/1659466619): Directory not empty in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneallAd-a.php on line 92
+[11-Aug-2022 06:52:05 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneallAd-a.php on line 97
+[11-Aug-2022 06:52:05 UTC] PHP Warning:  rmdir(../../adsPictures/113973874474925952373/1659466619): Directory not empty in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneallAd-a.php on line 92
+[11-Aug-2022 06:52:05 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneallAd-a.php on line 97
+[11-Aug-2022 06:52:05 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneallAd-a.php on line 97
+[11-Aug-2022 06:52:10 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneallAd-a.php on line 97
+[11-Aug-2022 07:01:43 UTC] PHP Notice:  Undefined variable: Time in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneallAd-a.php on line 97
+[24-Aug-2022 15:06:36 UTC] PHP Notice:  Undefined variable: mName in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 483
+[24-Aug-2022 15:06:36 UTC] PHP Notice:  Undefined variable: mName in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd.php on line 490
+[24-Aug-2022 15:06:39 UTC] PHP Notice:  Undefined variable: mName in /home/durakathanapala/public_html/admin/phoneAds/viewPhoneAd-a.php on line 29

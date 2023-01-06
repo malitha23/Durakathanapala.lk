@@ -1,0 +1,67 @@
+ .ad-phone-view{display:none;}
+.conditionLabel:before {
+  width: 0; 
+  height: 0; 
+  border-top: 14px solid transparent;
+  border-bottom: 14px solid transparent;
+  border-left: 5px solid white;
+  position: absolute;
+  left: -5px;
+  transform: translateX(100%);
+  content: '';
+  top: 0;
+}
+         .modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 30%;
+  height:40%;  /* Could be more or less, depending on screen size */
+}
+.modal-content-large{
+  background-color: #fefefe;
+  margin:0; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 100%;
+  height:auto;  /* Could be more or less, depending on screen size */
+}
+  
+  @media only screen and (max-device-width: 600px){
+	  .ad-phone-view{display:inline;}
+	  .ad-desk-view{display:none;}
+	   .adContainer{margin:0; padding:0;}
+           .modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 30%;
+  height:auto;  /* Could be more or less, depending on screen size */
+  }
+                       .modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 30%;
+  height:auto;  /* Could be more or less, depending on screen size */
+}
+.modal-content-large{
+  background-color: #fefefe;
+  margin:0; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 100%;
+  height:auto;  /* Could be more or less, depending on screen size */
+}
+
+@media only screen and (max-width: 900px) and (min-width: 300px){
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 100%;
+  height:auto;  /* Could be more or less, depending on screen size */
+}} 
+  
+
+

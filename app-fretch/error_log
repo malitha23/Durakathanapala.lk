@@ -1,0 +1,116 @@
+[11-Nov-2022 17:13:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:54:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:54:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:56:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:56:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:56:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:56:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:56:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:57:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:57:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:57:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:57:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:59:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 17:59:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 18:04:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 18:04:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 18:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 18:04:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 29
+[11-Nov-2022 18:06:02 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 10
+[11-Nov-2022 18:06:02 UTC] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 14
+[11-Nov-2022 18:06:43 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 10
+[11-Nov-2022 18:06:43 UTC] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 14
+[11-Nov-2022 18:07:24 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 10
+[11-Nov-2022 18:07:24 UTC] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 14
+[11-Nov-2022 18:09:10 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 10
+[11-Nov-2022 18:11:27 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 10
+[11-Nov-2022 18:12:34 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 32
+[11-Nov-2022 18:14:03 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 32
+[11-Nov-2022 18:15:00 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 32
+[11-Nov-2022 18:15:17 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 32
+[11-Nov-2022 18:15:19 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 32
+[11-Nov-2022 18:16:25 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 32
+[11-Nov-2022 18:17:49 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 32
+[11-Nov-2022 18:18:32 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 32
+[11-Nov-2022 18:18:34 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 32
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42
+[11-Nov-2022 18:20:25 UTC] PHP Warning:  Use of undefined constant device_name - assumed 'device_name' (this will throw an Error in a future version of PHP) in /home/durakathanapala/public_html/app-fretch/main-ads-listing-fretch.php on line 42

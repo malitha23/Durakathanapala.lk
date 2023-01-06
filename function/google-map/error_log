@@ -1,0 +1,637 @@
+[02-Aug-2022 05:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 05:27:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 05:29:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 11:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 12:10:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 12:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:08:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:09:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:13:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:14:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:15:07 UTC] PHP Notice:  Undefined property: education::$con in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:19:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:27:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:29:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:29:48 UTC] PHP Notice:  Undefined variable: stmt in /home/durakathanapala/public_html/function/google-map/map.php on line 301
+[02-Aug-2022 18:29:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/durakathanapala/public_html/function/google-map/map.php:301
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 301
+[02-Aug-2022 18:30:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:31:52 UTC] PHP Fatal error:  Uncaught Error: Class 'DbConect' not found in /home/durakathanapala/public_html/function/google-map/map.php:294
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(264): education->__construct()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 294
+[02-Aug-2022 18:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:35:48 UTC] PHP Notice:  Undefined variable: pdo in /home/durakathanapala/public_html/function/google-map/map.php on line 301
+[02-Aug-2022 18:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:301
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 301
+[02-Aug-2022 18:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:39:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:43:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:45:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:314
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 314
+[02-Aug-2022 18:50:51 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY), expecting ';' or '{' in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[02-Aug-2022 18:51:40 UTC] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE), expecting ';' or '{' in /home/durakathanapala/public_html/function/google-map/map.php on line 297
+[02-Aug-2022 18:52:04 UTC] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE), expecting ';' or '{' in /home/durakathanapala/public_html/function/google-map/map.php on line 298
+[02-Aug-2022 18:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:56:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:57:01 UTC] PHP Notice:  Undefined variable: host in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 10
+[02-Aug-2022 18:57:01 UTC] PHP Notice:  Undefined variable: dbName in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 10
+[02-Aug-2022 18:57:01 UTC] PHP Notice:  Undefined variable: user in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 10
+[02-Aug-2022 18:57:01 UTC] PHP Notice:  Undefined variable: pass in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 10
+[02-Aug-2022 18:57:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 18:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:300
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 300
+[02-Aug-2022 19:02:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/durakathanapala/public_html/function/google-map/map.php:296
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(264): education->__construct()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[03-Aug-2022 06:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/durakathanapala/public_html/function/google-map/map.php:296
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(264): education->__construct()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[04-Aug-2022 06:44:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/durakathanapala/public_html/function/google-map/map.php:296
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(264): education->__construct()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[04-Aug-2022 06:46:35 UTC] PHP Notice:  Undefined variable: host in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[04-Aug-2022 06:46:35 UTC] PHP Notice:  Undefined variable: username in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[04-Aug-2022 06:46:35 UTC] PHP Notice:  Undefined variable: password in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[04-Aug-2022 06:46:35 UTC] PHP Notice:  Undefined variable: db in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[04-Aug-2022 06:46:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[04-Aug-2022 06:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/durakathanapala/public_html/function/google-map/map.php:298
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(264): education->__construct()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 298
+[04-Aug-2022 06:47:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:305
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 305
+[04-Aug-2022 06:48:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:308
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 308
+[04-Aug-2022 06:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/durakathanapala/public_html/function/google-map/map.php:308
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 308
+[04-Aug-2022 06:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/durakathanapala/public_html/function/google-map/map.php:303
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 303
+[04-Aug-2022 06:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/durakathanapala/public_html/function/google-map/map.php:308
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 308
+[04-Aug-2022 06:54:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:307
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 307
+[04-Aug-2022 06:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/durakathanapala/public_html/function/google-map/map.php:308
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 308
+[04-Aug-2022 06:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/durakathanapala/public_html/function/google-map/map.php:315
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 315
+[04-Aug-2022 07:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:02:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:02:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:11:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/durakathanapala/public_html/function/google-map/map.php on line 322
+[04-Aug-2022 07:11:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:328
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 328
+[04-Aug-2022 07:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:35:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:35:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:322
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 322
+[04-Aug-2022 07:36:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:322
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 322
+[04-Aug-2022 07:36:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/durakathanapala/public_html/function/google-map/map.php:318
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 318
+[04-Aug-2022 07:38:33 UTC] PHP Notice:  Undefined variable: sql1 in /home/durakathanapala/public_html/function/google-map/map.php on line 322
+[04-Aug-2022 07:38:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:323
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 323
+[04-Aug-2022 07:38:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:323
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 323
+[04-Aug-2022 07:42:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:324
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 324
+[04-Aug-2022 07:43:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:324
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 324
+[04-Aug-2022 07:49:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/durakathanapala/public_html/function/google-map/map.php:323
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 323
+[04-Aug-2022 07:53:08 UTC] PHP Fatal error:  Cannot redeclare education::getAllColleges() in /home/durakathanapala/public_html/function/google-map/map.php on line 360
+[04-Aug-2022 07:53:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllColleges2() in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:55:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllColleges2() in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:55:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllColleges2() in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:56:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllColleges2() in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:56:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllColleges() in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:57:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllCollegess() in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 07:58:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllCollegess() in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 08:00:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllCollegess() in /home/durakathanapala/public_html/function/google-map/map.php:322
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 322
+[04-Aug-2022 08:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllCollegess() in /home/durakathanapala/public_html/function/google-map/map.php:325
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 325
+[04-Aug-2022 08:03:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:329
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 329
+[04-Aug-2022 08:04:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/durakathanapala/public_html/function/google-map/map.php on line 330
+[04-Aug-2022 08:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:336
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 336
+[04-Aug-2022 08:06:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/durakathanapala/public_html/function/google-map/map.php:329
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 329
+[04-Aug-2022 08:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:323
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 323
+[04-Aug-2022 08:14:02 UTC] PHP Notice:  Undefined property: education::$cnn in /home/durakathanapala/public_html/function/google-map/map.php on line 313
+[04-Aug-2022 08:14:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:313
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 313
+[04-Aug-2022 08:14:48 UTC] PHP Notice:  Undefined property: education::$cnn in /home/durakathanapala/public_html/function/google-map/map.php on line 322
+[04-Aug-2022 08:14:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:322
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 322
+[04-Aug-2022 08:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:323
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 323
+[04-Aug-2022 08:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:325
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 325
+[04-Aug-2022 08:20:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:323
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 323
+[04-Aug-2022 08:22:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/durakathanapala/public_html/function/google-map/map.php:323
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '80', '10386')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 323
+[04-Aug-2022 08:58:36 UTC] PHP Notice:  Undefined variable: con in /home/durakathanapala/public_html/function/google-map/map.php on line 313
+[04-Aug-2022 08:58:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/durakathanapala/public_html/function/google-map/map.php on line 313
+[04-Aug-2022 08:58:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/durakathanapala/public_html/function/google-map/map.php on line 314
+[04-Aug-2022 08:58:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/durakathanapala/public_html/function/google-map/map.php on line 315
+[04-Aug-2022 08:58:36 UTC] PHP Notice:  Undefined variable: count in /home/durakathanapala/public_html/function/google-map/map.php on line 316
+[04-Aug-2022 08:58:36 UTC] PHP Notice:  Undefined variable: count in /home/durakathanapala/public_html/function/google-map/map.php on line 317
+[04-Aug-2022 08:59:20 UTC] PHP Notice:  Undefined index: total in /home/durakathanapala/public_html/function/google-map/map.php on line 315
+[04-Aug-2022 08:59:20 UTC] PHP Notice:  Undefined variable: count in /home/durakathanapala/public_html/function/google-map/map.php on line 316
+[04-Aug-2022 08:59:20 UTC] PHP Notice:  Undefined variable: count in /home/durakathanapala/public_html/function/google-map/map.php on line 317
+[04-Aug-2022 09:00:09 UTC] PHP Notice:  Undefined variable: stmt in /home/durakathanapala/public_html/function/google-map/map.php on line 319
+[04-Aug-2022 09:00:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/durakathanapala/public_html/function/google-map/map.php:319
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '47', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 319
+[04-Aug-2022 09:02:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetchAll() in /home/durakathanapala/public_html/function/google-map/map.php:319
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '47', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 319
+[04-Aug-2022 09:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetchAll() in /home/durakathanapala/public_html/function/google-map/map.php:319
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '47', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 319
+[04-Aug-2022 09:07:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/durakathanapala/public_html/function/google-map/map.php:315
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '47', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 315
+[04-Aug-2022 09:09:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/durakathanapala/public_html/function/google-map/map.php:315
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '47', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 315
+[04-Aug-2022 09:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::rowCount() in /home/durakathanapala/public_html/function/google-map/map.php:315
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '47', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 315
+[04-Aug-2022 09:11:48 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:11:48 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:11:48 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:11:48 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:11:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/durakathanapala/public_html/function/google-map/map.php:304
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(267): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 304
+[04-Aug-2022 09:13:58 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:13:58 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:13:58 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:13:58 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:13:58 UTC] PHP Notice:  Undefined property: DbConnect::$host in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 11
+[04-Aug-2022 09:13:58 UTC] PHP Notice:  Undefined property: DbConnect::$dbName in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 11
+[04-Aug-2022 09:13:58 UTC] PHP Notice:  Undefined property: DbConnect::$user in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 11
+[04-Aug-2022 09:13:58 UTC] PHP Notice:  Undefined property: DbConnect::$pass in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 11
+[04-Aug-2022 09:13:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:302
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(267): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 302
+[04-Aug-2022 09:14:45 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:14:45 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:14:45 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:14:45 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:14:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:302
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(267): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 302
+[04-Aug-2022 09:17:17 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:17:17 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:17:17 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:17:17 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:17:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:302
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(267): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 302
+[04-Aug-2022 09:19:31 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:19:31 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:19:31 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:19:31 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:19:31 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php:23
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(297): DbConnect->connect()
+#1 /home/durakathanapala/public_html/function/google-map/map.php(266): education->__construct()
+#2 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 23
+[04-Aug-2022 09:21:05 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:21:05 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:21:05 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:21:05 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:21:05 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php:23
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(297): DbConnect->connect()
+#1 /home/durakathanapala/public_html/function/google-map/map.php(266): education->__construct()
+#2 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 23
+[04-Aug-2022 09:21:35 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:21:35 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:21:35 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:21:35 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:21:35 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php:23
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(297): DbConnect->connect()
+#1 /home/durakathanapala/public_html/function/google-map/map.php(266): education->__construct()
+#2 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 23
+[04-Aug-2022 09:23:31 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:23:31 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:23:31 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:23:31 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:23:31 UTC] PHP Notice:  Undefined variable: dbname in /home/durakathanapala/public_html/function/google-map/db/DbConnect.php on line 11
+[04-Aug-2022 09:23:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:302
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(267): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 302
+[04-Aug-2022 09:23:50 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:23:50 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:23:50 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:23:50 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:23:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:302
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(267): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 302
+[04-Aug-2022 09:24:12 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:24:12 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:24:12 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:24:12 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:24:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:302
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(267): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 302
+[04-Aug-2022 09:27:07 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:27:07 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:27:07 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:27:07 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:27:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:302
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(267): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 302
+[04-Aug-2022 09:28:53 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:28:53 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:28:53 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:28:53 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:28:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:302
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(267): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 302
+[04-Aug-2022 09:39:01 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:39:01 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 79
+[04-Aug-2022 09:39:01 UTC] PHP Notice:  Undefined variable: userlat in /home/durakathanapala/public_html/function/google-map/map.php on line 113
+[04-Aug-2022 09:39:01 UTC] PHP Notice:  Undefined variable: userlng in /home/durakathanapala/public_html/function/google-map/map.php on line 114
+[04-Aug-2022 09:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:302
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(267): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 302
+[04-Aug-2022 09:40:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/durakathanapala/public_html/function/google-map/map.php:296
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(264): education->__construct()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[04-Aug-2022 09:42:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/durakathanapala/public_html/function/google-map/map.php:296
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(264): education->__construct()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[04-Aug-2022 09:45:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/durakathanapala/public_html/function/google-map/map.php:296
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(264): education->__construct()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 296
+[04-Aug-2022 09:51:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/durakathanapala/public_html/function/google-map/map.php:304
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 304
+[04-Aug-2022 09:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/durakathanapala/public_html/function/google-map/map.php:304
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(265): education->getCollegesBlankLatLng()
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 304
+[04-Aug-2022 09:54:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:316
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '47', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 316
+[04-Aug-2022 09:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/durakathanapala/public_html/function/google-map/map.php:319
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '47', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 319
+[04-Aug-2022 09:56:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '47', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 10:01:47 UTC] PHP Notice:  Undefined index: total in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 10:02:20 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/durakathanapala/public_html/function/google-map/map.php:321
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '47', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 321
+[04-Aug-2022 10:11:26 UTC] PHP Notice:  Undefined variable: dta in /home/durakathanapala/public_html/function/google-map/map.php on line 334
+[04-Aug-2022 10:16:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/durakathanapala/public_html/function/google-map/map.php on line 382
+[04-Aug-2022 10:25:22 UTC] PHP Notice:  Undefined variable: con in /home/durakathanapala/public_html/function/google-map/map.php on line 326
+[04-Aug-2022 10:25:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/durakathanapala/public_html/function/google-map/map.php:326
+Stack trace:
+#0 /home/durakathanapala/public_html/function/google-map/map.php(269): education->getAllColleges('269', '48', '10434')
+#1 {main}
+  thrown in /home/durakathanapala/public_html/function/google-map/map.php on line 326
+[04-Aug-2022 10:41:52 UTC] PHP Notice:  Undefined variable: mo in /home/durakathanapala/public_html/function/google-map/map.php on line 269
+[04-Aug-2022 10:41:52 UTC] PHP Notice:  Undefined variable: mT in /home/durakathanapala/public_html/function/google-map/map.php on line 269
