@@ -47,7 +47,11 @@
        $gender    = $_POST['mainRegGender'];
        $city      = $_POST['mainRegCity'];
 	   $uname     = $_POST['mainRegUname'];
-       $password    = $_POST['mainRegPassword'];
+	   
+	   // hashed password set
+	   
+	   $password    = mysqli_real_escape_string($conn,$_POST['mainRegPassword']);
+       $hashedPassword = password_hash($password, PASSWORD_DEFAULT);
  
 	   $date            = new DateTime("now", new DateTimeZone('Asia/Colombo') );
        $log_Time       = $date->format('Y-m-d H:i:s');
@@ -72,7 +76,7 @@
                        $file1="no";
        }                   
 	                    $sql = "INSERT INTO `user`(`UserId`, `fname`, `lname`, `email`, `pno1`, `pno2`, `user_name`, `password`, `image_name`, `gender`, `city`, `login_time`,`lat`,`lng`) 
-	                    VALUES ('','$fname','$lname','$email','$pno1','','$uname','$password','$file1','$gender','$city','$log_Time','$lat','$lng')";
+	                    VALUES ('','$fname','$lname','$email','$pno1','','$uname','$hashedPassword','$file1','$gender','$city','$log_Time','$lat','$lng')";
 	                    $fire=mysqli_query($conn,$sql);
 	                    if($fire){
 			             
@@ -82,7 +86,7 @@
                            date.setTime(date.getTime()+(1000*60*60*24*365));
                          var expires = "; expires="+date.toGMTString();
                          var n = "<?php echo $uname; ?>";
-		 var p = "<?php echo $password; ?>";
+		 var p = "<?php echo $hashedPassword; ?>";
 		 var e = "normal";
 		 var ppp = "";
 		 document.cookie = "durakathanapalalogin"+"="+e+expires+"; path=/"; 

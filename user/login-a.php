@@ -2,14 +2,20 @@
   require_once '../function/database/database.php';
   if(isset($_POST["login"])){
 		$uname =  $_POST["username"];
-		$pass =  $_POST["pass"];
-
-		$sql = "select * from `user` where `user_name` ='$uname' and `password` ='$pass' ";
+		$pass    = mysqli_real_escape_string($conn,$_POST['pass']);
+	
+   
+   echo $hashedPassword;
+		$sql = "select * from `user` where `user_name` ='$uname' ";
 	         $res = mysqli_query($conn,$sql);
              $count = mysqli_num_rows($res);
 		      if($count>0){
 		      while($row=mysqli_fetch_assoc($res)){
-				  $user_name = $row["user_name"];		  
+		          
+		          $p1 = $row['password'];
+		          if (password_verify($pass, $p1))
+                   {
+                     $user_name = $row["user_name"];		  
 				  $email = $row["email"];
 				  $password = $row["password"];
 				     ?>
@@ -29,7 +35,10 @@
                  window.location.href = '../';
 		 </script>
 			 <?php 
-                  
+                   }else{
+                      ?>   <script type="text/javascript"> window.location.href = 'login.php?error'; </script> <?php
+                   }
+				  
 			   }
 			  }else{
 				
